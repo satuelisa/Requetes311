@@ -6,6 +6,7 @@ to follow the lessons of Nathan George's book [Practical Data Science
 with
 Python](https://www.packtpub.com/product/practical-data-science-with-python/9781801071970).
 
-To view the notebook with the [Plotly](https://plotly.com/python/)
-elements included, you can use
-[nbviewer](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).
+To view the notebook, you can use
+[nbviewer](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/CaseStudy.ipynb). It
+has so many images and animations that it does not render at GitHub as
+a whole at present. I may slice it up in the future, sorry about that.

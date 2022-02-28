@@ -6,7 +6,9 @@ to follow the lessons of Nathan George's book [Practical Data Science
 with
 Python](https://www.packtpub.com/product/practical-data-science-with-python/9781801071970).
 
-To view the notebook, you can use
-[nbviewer](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/CaseStudy.ipynb). It
-has so many images and animations that it does not render at GitHub as
-a whole at present. I may slice it up in the future, sorry about that.
+To view the notebook, you can also use
+[nbviewer](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).
+It may show some content that GitHub does not presently render. If you
+wish to see all of it and interact with the code, install [Jupyter
+Notebook](https://jupyter.org/) locally and download the
+[notebook](https://github.com/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).

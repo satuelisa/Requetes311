@@ -6,9 +6,16 @@ to follow the lessons of Nathan George's book [Practical Data Science
 with
 Python](https://www.packtpub.com/product/practical-data-science-with-python/9781801071970).
 
-To view the notebook, you can also use
-[nbviewer](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).
-It may show some content that GitHub does not presently render. If you
+To view the notebooks, you can also use `nbviewer`
+
+* [Part 1: Introduction](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).
+* [Part 2: Georeferencing](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/Georef.ipynb).
+* [Part 3: Temporal aspects](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/Temporal.ipynb).
+
+since it may show some content that GitHub does not presently render. If you
 wish to see all of it and interact with the code, install [Jupyter
-Notebook](https://jupyter.org/) locally and download the
-[notebook](https://github.com/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).
+Notebook](https://jupyter.org/) locally and download the notebooks
+
+* [Part 1: Introduction](https://github.com/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).
+* [Part 2: Georeferencing](https://github.com/satuelisa/Requetes311/blob/main/Georef.ipynb).
+* [Part 3: Temporal aspects](https://github.com/satuelisa/Requetes311/blob/main/Temporal.ipynb).

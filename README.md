@@ -11,6 +11,7 @@ To view the notebooks, you can also use `nbviewer`
 * [Part 1: Introduction](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).
 * [Part 2: Georeferencing](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/Georef.ipynb).
 * [Part 3: Temporal aspects](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/Temporal.ipynb).
+* [Part 4: Statistical aspects](https://nbviewer.org/github/satuelisa/Requetes311/blob/main/Statistics.ipynb).
 
 since it may show some content that GitHub does not presently render. If you
 wish to see all of it and interact with the code, install [Jupyter
@@ -19,3 +20,4 @@ Notebook](https://jupyter.org/) locally and download the notebooks
 * [Part 1: Introduction](https://github.com/satuelisa/Requetes311/blob/main/CaseStudy.ipynb).
 * [Part 2: Georeferencing](https://github.com/satuelisa/Requetes311/blob/main/Georef.ipynb).
 * [Part 3: Temporal aspects](https://github.com/satuelisa/Requetes311/blob/main/Temporal.ipynb).
+* [Part 4: Statistical aspects](https://github.com/satuelisa/Requetes311/blob/main/Statistics.ipynb).
